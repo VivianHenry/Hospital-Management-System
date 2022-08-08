@@ -14,7 +14,7 @@ The project was executed using a combination of PHP, HTML, CSS, MySQL, and Boots
 
 The Entity-Relationship diagram created to model the database is given below.
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/67223688/183330916-20edc03f-e93c-4739-b746-6cbcad4aa7a4.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/67223688/183331503-01780f01-67fb-4f70-a040-3093b61ba101.png">
 
 Sample images of the GUI is given below.
 
