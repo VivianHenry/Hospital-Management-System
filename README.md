@@ -1,5 +1,7 @@
 # Hospital-Management-System
 
+The Entity-Relationship diagram created to model the database is given below.
+
 ![ER Diagram](https://user-images.githubusercontent.com/67223688/183329189-0a9b73c0-7827-4e3f-9778-727e01c3b248.png)
 
 The following steps need to be undertaken in order to recreate the Hospital Management System project. 
