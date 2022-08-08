@@ -14,12 +14,20 @@ The project was executed using a combination of PHP, HTML, CSS, MySQL, and Boots
 
 The Entity-Relationship diagram created to model the database is given below.
 
-![ER Diagram](https://user-images.githubusercontent.com/67223688/183329189-0a9b73c0-7827-4e3f-9778-727e01c3b248.png)
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/67223688/183330916-20edc03f-e93c-4739-b746-6cbcad4aa7a4.png](https://user-images.githubusercontent.com/67223688/183329189-0a9b73c0-7827-4e3f-9778-727e01c3b248.png">
 
 Sample images of the GUI is given below.
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/67223688/183331007-c0fb6535-b904-4fc9-8664-8fd59e7f9743.png">
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/67223688/183330916-20edc03f-e93c-4739-b746-6cbcad4aa7a4.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/67223688/183330916-20edc03f-e93c-4739-b746-6cbcad4aa7a4.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/67223688/183331007-c0fb6535-b904-4fc9-8664-8fd59e7f9743.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/67223688/183331091-bdcee2f5-0cbe-4007-b8c7-f41adc67140e.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/67223688/183331115-2272971f-854f-4ef2-8a04-cb349b8fce03.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/67223688/183331127-1bd14b39-e69c-4cb9-ab02-32c95a67ab8a.png">
+
 
 
 <h2>The following steps need to be undertaken in order to recreate the Hospital Management System project</h2>
