@@ -1,4 +1,4 @@
-# Hospital-Management-System
+<h1>Hospital Management System</h1>
 
 The Entity-Relationship diagram created to model the database is given below.
 
