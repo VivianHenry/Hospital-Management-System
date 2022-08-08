@@ -1,5 +1,14 @@
 <h1>Hospital Management System</h1>
 
+The aim of this project is to design and implement a database for a hospital management system, complete with a fully functional GUI that allows users access to and control over the database, in accordance to their roles and permissions. This complete system eases the management of a hospital. While the project has been scaled down for the sake of timely completion, the underlying principles and functionalities are easily scalable. There are 4 types of users in this system, each with their own login credentials. These users are:
+<ul>
+  <li>Doctor
+</ul>
+
+The project was executed using a combination of PHP, HTML, CSS, MySQL, and Bootstrap. PHP is a server-side, general-purpose scripting language that was embedded into the base HTML in order to add dynamic functionality to the GUI and allow calculated modifications to occur in real-time, depending on user interaction and state of the system. PHPMyAdmin, which is a free software tool, was used in order to administer the database over the web. The Bootstrap CDN was used in order to build upon the Bootstrap framework, thereby introducing responsive design from the elemental level, as well as permitting the use of various Bootstrap components. This permitted quick and efficient frontend development. 
+
+
+
 The Entity-Relationship diagram created to model the database is given below.
 
 ![ER Diagram](https://user-images.githubusercontent.com/67223688/183329189-0a9b73c0-7827-4e3f-9778-727e01c3b248.png)
