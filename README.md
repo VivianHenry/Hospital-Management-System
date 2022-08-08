@@ -14,7 +14,7 @@ The project was executed using a combination of PHP, HTML, CSS, MySQL, and Boots
 
 The Entity-Relationship diagram created to model the database is given below.
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/67223688/183331503-01780f01-67fb-4f70-a040-3093b61ba101.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/67223688/183331503-01780f01-67fb-4f70-a040-3093b61ba101.png">
 
 Sample images of the GUI is given below.
 
@@ -27,8 +27,6 @@ Sample images of the GUI is given below.
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/67223688/183331115-2272971f-854f-4ef2-8a04-cb349b8fce03.png">
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/67223688/183331127-1bd14b39-e69c-4cb9-ab02-32c95a67ab8a.png">
-
-
 
 <h2>The following steps need to be undertaken in order to recreate the Hospital Management System project</h2>
 
