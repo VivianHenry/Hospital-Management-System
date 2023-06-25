@@ -44,4 +44,4 @@ Step 3: Setting up the Database: From the web browser, go to localhost/phpmyadmi
 
 Step 4: Using the HMS: Once the 3 steps above are successfully completed, the system is ready for use. In order to begin, go to localhost/hms/ in order to begin a session at the login page.
 
-Step 5: Ending Session:Once done, stop the servers from running by controlling their active states in the XAMP/WAMP manager.
+Step 5: Ending Session: Once done, stop the servers from running by controlling their active states in the XAMP/WAMP manager.
