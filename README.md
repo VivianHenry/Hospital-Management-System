@@ -36,7 +36,7 @@ Sample images of the GUI is given below.
 
 The following steps need to be undertaken in order to recreate the Hospital Management System project
 
-Step 1: Installing and Configuring XAMP/WAMP: In order for the project to work, XAMP (MacOS) or WAMP (Windows) needs to be installed. Once done, the hms folder must be added to the directory. In order to do this, 
+Step 1: Installing and Configuring XAMP/WAMP: In order for the project to work, XAMP (MacOS) or WAMP (Windows) needs to be installed. Once done, the hms folder must be added to the directory.
 
 Step 2: Initializing the Required Servers: From the XAMP/WAMP manager, initialize the MySQL Database and Apache Web servers.
 
